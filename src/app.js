@@ -1,0 +1,1 @@
+console.log('webpack is working in bundles.js')
